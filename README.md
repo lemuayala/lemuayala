@@ -7,9 +7,9 @@
 
 
 
-![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemuayala&theme=radical)
+![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemuayala&theme=dark)
 
-![Orbit Stats](https://github-readme-stats.vercel.app/api?username=lemuayala&show_icons=true&theme=radical&border_radius=20)
+![Orbit Stats](https://github-readme-stats.vercel.app/api?username=lemuayala&show_icons=true&theme=dark&border_radius=10)
 
 
 ## 🚀 Perfil Profesional
