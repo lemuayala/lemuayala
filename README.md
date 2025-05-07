@@ -1,5 +1,5 @@
-# 👋 Hola, soy Lemuel Ayala Jara 
-**Analista Programador Full Stack** | Jujuy, Argentina
+# 👋 Hola, soy Lemuel Ayala 
+**Full Stack .NET Angular | React** - Jujuy, Argentina
 
 [![Email](https://img.shields.io/badge/Email-lemuayala@gmail.com-D14836?style=flat&logo=gmail)](mailto:lemuayala@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lemuel_Ayala-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lemuayala/)
