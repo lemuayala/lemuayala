@@ -5,14 +5,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lemuel_Ayala-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lemuayala/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+54_388_522_9971-25D366?style=flat&logo=whatsapp)](https://wa.me/543885229971)
 
-![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemuayala&theme=dark)
-![Orbit Stats](https://github-readme-stats.vercel.app/api?username=lemuayala&show_icons=true&theme=dark&border_radius=10)
-
 ---
 
 ## 🌐 Otros Perfiles
 - **Cuenta Laboral:** [lemuayala-worldsys](https://github.com/lemuayala-worldsys)  
   ¡Aquí encontrarás mis contribuciones a proyectos del sector bancario y soluciones empresariales!
+
+![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemuayala&theme=dark)
+![Orbit Stats](https://github-readme-stats.vercel.app/api?username=lemuayala&show_icons=true&theme=dark&border_radius=10)
+
 
 ---
 
