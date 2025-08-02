@@ -3,7 +3,7 @@
 
 [![Email](https://img.shields.io/badge/Email-lemuayala@gmail.com-D14836?style=flat&logo=gmail)](mailto:lemuayala@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lemuel_Ayala-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lemuayala/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+54_388_522_9971-25D366?style=flat&logo=whatsapp)](https://wa.me/543885229971)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+54_370_460_6763-25D366?style=flat&logo=whatsapp)](https://wa.me/543704606763)
 
 ---
 
@@ -12,7 +12,6 @@
   ¡Aquí encontrarás mis contribuciones a proyectos del sector bancario y soluciones empresariales!
 
 ![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemuayala&theme=dark)
-![Orbit Stats](https://github-readme-stats.vercel.app/api?username=lemuayala&show_icons=true&theme=dark&border_radius=10)
 
 
 ---
