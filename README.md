@@ -1,17 +1,9 @@
 # 👋 Hola, soy Lemuel Ayala 
 **Full Stack .NET Angular | React** - Jujuy, Argentina
 
-<a href="mailto:lemuayala@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-lemuayala@gmail.com-D14836?style=flat&logo=gmail" alt="Email">
-</a>
-
-<a href="https://www.linkedin.com/in/lemuayala/" target="_blank" style="color: red">
-  <img src="https://img.shields.io/badge/LinkedIn-Lemuel_Ayala-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
-</a>
-
-<a href="https://wa.me/543704606763?text=Hola%20Lemuel!%20Vi%20tu%20perfil%20y%20me%20gustaría%20contactarte." target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-+54_370_460_6763-25D366?style=flat&logo=whatsapp" alt="WhatsApp">
-</a>
+[![Email](https://img.shields.io/badge/Email-lemuayala@gmail.com-D14836?style=flat&logo=gmail)](mailto:lemuayala@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lemuel%20Ayala-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lemuayala/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B54%20370%20460%206763-25D366?style=flat&logo=whatsapp)](https://wa.me/543704606763?text=Hola%20Lemuel!%20Vi%20tu%20perfil%20y%20me%20gustaría%20contactarte.)
 
 
 ---
